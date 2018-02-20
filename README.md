@@ -1,11 +1,11 @@
-# Java-HelloWorld-and-Other-Projects
+# Java HelloWorld and Other Projects
 Small projects from learning Java.
 
 ## Projects Include
-- Postal Bar Code Creator -- creates the bar code along the bottom of an envelope when given the zip code
-- Robot Maze -- given a maze, have 3 robots with different strategies try to escape and report on the best strategy
+- [Postal Bar Code Creator](https://github.com/smolin92/Java-HelloWorld-and-Other-Projects/tree/master/src/postalCode) -- creates the bar code along the bottom of an envelope when given the zip code
+- [Robot Maze](https://github.com/smolin92/Java-HelloWorld-and-Other-Projects/tree/master/src/robotMaze) -- given a maze, have 3 robots with different strategies try to escape and report on the best strategy
 - Magic Square [(info)](https://en.wikipedia.org/wiki/Magic_square)
-- Bulgarian Solitaire [(info)](https://en.wikipedia.org/wiki/Bulgarian_solitaire)
+- [Bulgarian Solitaire](https://github.com/smolin92/Java-HelloWorld-and-Other-Projects/tree/master/src/bulgarianSolitaire) [(info)](https://en.wikipedia.org/wiki/Bulgarian_solitaire)
 - Arithmetic Tutor 
 - Airplane Seat Assignment
 - Appointment Calendar
