@@ -19,7 +19,7 @@ public class Letter {
 	public String getText() {
 		String intro = "Dear " + to + ":";
 		String signature = "Sincerely,\n\n" + from;
-		String fullMessage = intro + "\n\n" + body + "\n\n" + signature;
+		String fullMessage = intro + "\n\n\n" + body + "\n\n" + signature;
 		return fullMessage;
 	}
 }
